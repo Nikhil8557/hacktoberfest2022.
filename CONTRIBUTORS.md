@@ -1,3 +1,5 @@
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -1243,6 +1245,14 @@ to explore life. Also, Python and Django Developer
 - Bio: Trying to learn cool new things!
 - GitHub: [Justin Oliver](https://github.com/justinoliver)
 
+#### Name: [Nikhil kumar](https://github.com/nikhil8557)
+
+- Place: London, England
+
+- Bio: Love to code
+
+- Github: [nikhil8557] (https://github.com/nikhil8557)
+
 #### Name: [Justin de Leon](https://github.com/jusdeleon)
  - Place: Philippines
  - Bio: PHP Developer
@@ -2368,6 +2378,20 @@ Noida
 - Bio: Freelancer
 - Github [yasminzy]((https://github.com/yasminzy)
 
+#### Name: [Michael Rogers](https://github.com/widgyrogers)
+- Place: London, England
+- Bio: Management Consultant
+- Github: [widgyrogers] (https://github.com/widgyrogers)
+
+#### Name: [Olof Jondelius](https://github.com/brainmaniac)
+- Place: Stockholm, Sweden
+- Bio: Architect
+- Github: [brainmaniac] (https://github.com/brainmaniac)
+
+#### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
+- Place: Pune,India
+- Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+=======
 #### Name: [Yusuf Eren Utku](http://cv.erenutku.com)
  - Place: Istanbul, Turkey
  - Bio: Software Engineer - Android Developer
@@ -2426,4 +2450,4 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ítalo Epifânio](https://github.com/itepi
