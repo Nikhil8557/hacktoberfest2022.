@@ -1,4 +1,7 @@
-
+#### Name: [Anup Jaiswal](https://github.com/janup2442)
+- Place: Gorakhpur, Uttar Pradesh, India
+- Bio: Electrical Engineering Student at Madan Mohan Malaviya University of Technology Gorakhpur 
+- GitHub: [janup2442](https://github.com/janup2442)
 
 #### Name: Vallenain
  - Place: Lyon, France
